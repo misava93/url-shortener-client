@@ -1,0 +1,9 @@
+# Venv
+.venv
+
+# IntelliJ
+.idea
+*iml
+
+# App
+/log/

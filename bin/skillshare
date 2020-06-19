@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+python src/client/url_shortener_cli.py "$@"
